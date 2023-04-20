@@ -33,7 +33,6 @@ Se gostou da ideia acompanhe os projetos abaixo:
     <td>
       <h3>08 - CRUD</h3>
       <li><a href="./08-crud/">Código</a></li>
-      <li><a href="https://youtu.be/oGEYs52ZuHY">Passo a passo</a></li>
       <a href="https://fernandoleonid.github.io/mini-projetos-js/08-crud/"><img src="./img/08-crud.gif" width="250px" ></a>
     </td>
   </tr>
