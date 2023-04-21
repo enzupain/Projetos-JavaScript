@@ -1,12 +1,4 @@
-# Mini Projetos com javascript puro
-
-## Objetivo
-Não tem outra maneira para se aprender além de **praticar, praticar e praticar**.
-
-Pensando nisso, criei este repositório com objetivo juntar ideias para mini projetos que podem ajudar quem está iniciando no desenvolvimento web utilizando o javascript puro.
-Você pode realizar observando o resultado, ou verificando o código, ou ainda acompanhando o desenvolvimento por meio de videos.
-
-Se gostou da ideia acompanhe os projetos abaixo:
+Projetos em JavaScript que eu como estudante do 1 periodo de ADS fiz!!!
 
 <table border="2">
   <tr>
